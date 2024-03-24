@@ -1,2 +1,2 @@
 # OASIS
-static web page regarding interior design
+Static web page regarding interior design.
